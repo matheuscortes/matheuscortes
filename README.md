@@ -4,11 +4,11 @@
 
 ## Sobre mim:
 
-Sou um desenvolvedor back-end iniciante
+Sou um desenvolvedor back-end iniciante.
 
-Adoro programar e resolver problemas, além de estudar novas tecnologias a fim de aprimorar e expandir meus conhecimentos de programação 
+Adoro programar e resolver problemas, além de estudar novas tecnologias a fim de aprimorar e expandir meus conhecimentos de programação. 
 
-Estudo constantemente para evoluir como profissional e, consequentemente, agregar cada vez mais valor 
+Estudo constantemente para evoluir como desenvolvedor de software e, consequentemente, agregar cada vez mais valor .
 
 ## Tecnologias que utilizo no meu dia a dia:
 
